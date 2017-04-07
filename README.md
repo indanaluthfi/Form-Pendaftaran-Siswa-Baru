@@ -6,9 +6,8 @@ Ini adalah website resmi SMK Wahid Hasyim Trenggalek
 
 Untuk melakukan pendaftaran silahkan klik Link di bawah ini
 
-(indanaluthfi.github.io)[Pendaftaran]
 ```
-
+(indanaluthfi.github.io)[Pendaftaran]
 
 Luthfi Indana
 16702251021
